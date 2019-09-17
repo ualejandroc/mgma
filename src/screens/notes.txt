@@ -1,0 +1,22 @@
+# Ocultar panel smoothly 
+https://github.com/Gguigre/appearanceAnimations
+https://stackoverflow.com/questions/41030959/react-smooth-transition-between-different-states-in-a-component
+
+
+
+
+separator in react
+
+function Separator() {
+  return <View style={styles.separator} />;
+}
+
+
+
+
+separator: {
+    marginVertical: 8,
+    borderBottomColor: '#737373',
+    borderBottomWidth: StyleSheet.hairlineWidth,
+  },
+
